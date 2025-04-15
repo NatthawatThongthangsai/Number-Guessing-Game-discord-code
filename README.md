@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/NatthawatThongthangsai/Number-Guessing-Game-discord-code.git
-cd guess-number-bot 
+cd Number-Guessing-Game-discord-code-main 
 ```
 ---
 ### 📦 ติดตั้ง Package
